@@ -1,3 +1,2 @@
-Hello,
-Welcome to everyone
-How to push file in github in repository
+Hello, Welcome to everyone,,
+How to push file in github in repository............................
